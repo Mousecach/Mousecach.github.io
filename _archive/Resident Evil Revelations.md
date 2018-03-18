@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Resident Evil Revelations"
+date: 2013-04-15
+excerpt: 'Resident Evil Revelations перенесет игроков к событиям, происходившим между Resident Evil® 4 и Resident Evil® 5, в которых рассказывается вся правда про T-Abyss вирус. Действие начинается на борту "заброшенного"  корабля "Queen Zenobia", на котором ужасы будут ждать за каждым углом, до тех пор, пока наши герои не достигнут большой земли и опустошенного города Terragrigia. С ограниченными боеприпасами и оружием, это будет настоящей ужасной гонкой на выживание!'
+---
+
+Предзакажите <a href="http://store.steampowered.com/app/222480/" target="_blank">Resident Evil Revelations</a> сейчас, и помогите этим разблокировать специальные награды за предзаказ! Среди возможных наград: Resident Evil Revelations Digital Soundtrack and Artbook, бесплатная копия <a href="http://store.steampowered.com/app/6510/" target="_blank">Lost Planet: Extreme Conditions</a>, и Resident Evil Revelations DLC Season Pass. Для более подробной информации просмотрите страницу <a href="http://store.steampowered.com/app/222480/" target="_blank">предзаказа</a>.
+
+Resident Evil® Revelations возвращает ориентацию серии на ПК, благодаря чему стало возможно добавить высококачественную визуализацию, расширенные эффекты освещения и захватывающий звук. Вместе с этой последней версией Resident Evil Revelations будет добавлен новый контент, включающий в себя новых ужасающих врагов, дополнительный уровень сложности, интеграция с ResidentEvil.net, и улучшение Raid Mode. Raid Mode был впервые представлен в оригинальной версии Resident Evil Revelations, который позволял игрокам скооперироваться для борьбы или сопротивляться ордам зомби в одиночку в различных миссиях, попутно улучшая навыки своего персонажа и открывая улучшения оружия. А вместе с новым оружием, наборами навыков, и доступными персонажами, включая Hunk'а, позволит вам  испытать новые впечатления от Raid Mode.
+
+Названый критиками Survival Horror'ом, Resident Evil Revelations перенесет игроков к событиям, происходившим между Resident Evil® 4 и Resident Evil® 5, в которых рассказывается вся правда про T-Abyss вирус. В Resident Evil Revelations вам предстоит помочь любимцам серии - Jill Valentine и Chris Redfield, а также соответствующим им партнерам - Parker Luciani и Jessica Sherawat. Действие начинается на борту "заброшенного"  корабля "Queen Zenobia", на котором ужасы будут ждать за каждым углом, до тех пор, пока наши герои не достигнут большой земли и опустошенного города Terragrigia. С ограниченными боеприпасами и оружием, это будет настоящей ужасной гонкой на выживание!
+
+<a href="http://store.steampowered.com/app/222480/" target="_blank"><img class="aligncenter size-full wp-image-2002" alt="rer_467x181" src="http://gamersoul.ru/wp-content/uploads/2013/04/rer_467x181.jpg" width="467" height="181" /></a>

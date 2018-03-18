@@ -1,0 +1,19 @@
+title: Mousecach's blog
+name: MOUSECACH
+email: Mousecach@gmail.com
+description: >
+  Всем привет! Меня зовут Щегольков Никита, так же известный в интернете под ником Mousecach и я веду свой маленький блог, посвящённый разработке
+
+#Исключаем вспомогательные папки
+exclude:
+  [Old DB]
+
+#Добавляем коллекции. В частности, старые файлы
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title/
+
+  archive:
+    output: true
+    permalink: /archive/:title/
