@@ -6,7 +6,12 @@ description: >
 
 #Исключаем вспомогательные папки
 exclude:
-  [Old DB]
+ [Old DB, 
+  node_modules, 
+  sass, 
+  gulpfile.js, 
+  README.md, 
+  package.json]
 
 #Добавляем коллекции. В частности, старые файлы
 collections:
